@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-lub7i9.juragan89.online/sitemap.xml
